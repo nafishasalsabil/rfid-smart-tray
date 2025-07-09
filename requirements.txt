@@ -1,0 +1,12 @@
+gradio==4.26.0
+pydantic==2.6.4
+fastapi==0.110.2
+uvicorn==0.29.0
+pandas==2.2.2
+aiofiles==23.2.1
+python-multipart==0.0.9
+serial~=0.0.97
+pyserial~=3.5
+fpdf2~=2.8.3
+reportlab~=4.4.2
+requests~=2.32.4
