@@ -1,0 +1,12 @@
+{
+  "E2000017221101441890ABCD": {"name": "T-Shirt", "price": 750},
+  "E2000017221101441890XYZ1": {"name": "Jeans", "price": 1200},
+  "E2000017221101441890LMN2": {"name": "Kurti", "price": 950},
+  "E2000017221101441890QWER": {"name": "Formal Shirt", "price": 1450},
+  "E2000017221101441890TYUI": {"name": "Denim Jacket", "price": 2200},
+  "E2000017221101441890ZXCV": {"name": "Joggers", "price": 1050},
+  "E2000017221101441890ASDF": {"name": "Saree", "price": 1850},
+  "E2000017221101441890GHJK": {"name": "Polo Shirt", "price": 800},
+  "E2000017221101441890BNMQ": {"name": "Hoodie", "price": 1650},
+  "E2000017221101441890VCXZ": {"name": "Chinos", "price": 1350}
+}
